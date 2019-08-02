@@ -1,0 +1,2 @@
+# FBDD
+"Facebook Data Dump" is the free software that let anyone (have a little knowledge) to hack into the private data of his/her facebook's friend list (phone number, e-mail), in addition, this tool has an built-in bot that can be used to auto react, comment, delete posts, or even react with recived friend requests. Note: there is a small error you should solve, to be available to try this app! use it at your own risk!
