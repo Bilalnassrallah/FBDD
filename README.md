@@ -1,4 +1,4 @@
-
+# There is a small error in the app that you should solve after installation to use it.... Thanks
 # this project will be stopped for some time to come.
 
 ```
