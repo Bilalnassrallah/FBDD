@@ -43,7 +43,7 @@ n = []
 def baliho():
 	try:
 		token = open('cookie/token.log','r').read()
-		r = requests.get('https://graph.facebook.com/me?access_token=' + token)
+		r = requests.get('https://graph.facebook.com/me?access_token>' + token)
 		a = json.loads(r.text)
 		name = a['name']
 		n.append(a['name'])
