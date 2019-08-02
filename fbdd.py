@@ -63,7 +63,7 @@ def baliho():
 		print 'ooO--(_)--Ooo'.center(44)
 		print ' ' + W
 		print ('F B D D').center(44)
-		print (W + '                     [' + G +'Facebook Data Dump'+ W + ']')
+		print (W + '             [' + G +'Facebook Data Dump'+ W + ']')
 		print ' '
 ####################################################################
 #		    Print In terminal
